@@ -1,7 +1,5 @@
 # Custom MTR
 
-\
-\
 
 
 A lightweight Python-based **custom MTR-style network monitoring tool** designed for network engineers.
