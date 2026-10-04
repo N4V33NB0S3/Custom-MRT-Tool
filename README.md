@@ -1,7 +1,5 @@
 # Custom MTR
 
-\
-\
 
 
 A lightweight Python-based **custom MTR-style network monitoring tool** designed for network engineers to monitor multiple network devices simultaneously and measure actual service downtime.
